@@ -36,6 +36,19 @@ Apasionado de la tecnología, desarrollo de negocios, y nuevas tendencias. Disfr
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+
+<div id="header" align="left">
+  
+   [![My Skills](https://skillicons.dev/icons?i=apollo,aws,apple,github,azure,aiscript,gmail,discord,notion,html,ai,linkedin,ps,vscode)](https://skillicons.dev)
+
+</div>
+
+  ---
+
+### :fire: Mis estadísticas:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceoroz9&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceoroz9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 
 </div>
