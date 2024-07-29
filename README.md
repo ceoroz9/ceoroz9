@@ -1,5 +1,7 @@
 <p align='center'> <div id="header" align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Cesar%20Orozco&textBg=false&fontSize=35&fontAlign=23&fontAlignY=26&desc=Data%20Analyst/Sales&descSize=25&descAlign=82&descAlignY=67&reversal=true&rotate=0"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Cesar%20Orozco&reversal=true&textBg=false&fontAlign=50&animation=fadeIn&descAlign=32&descAlignY=78"/> 
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Data-Analyst|Business-Development🤹&width=2000&height=150"/> 
+  
 </p>
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceorozco92/)
