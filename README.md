@@ -4,7 +4,7 @@
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceorozco92/)
 
-![](https://komarev.com/ghpvc/?username=ceoroz9)
+![](https://komarev.com/ghpvc/?username=ceoroz9&color=brightgreen&style=plastic)
 
 <h1>
   Hola soy César ¡Encantado de conocerte!
