@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=ceoroz9&color=brightgreen&style=plastic)
 
 <h1>
-  Hola soy César ¡Encantado de conocerte! :)
+  Hi, I'm Cesar. Nice to meet you! :)
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -17,15 +17,15 @@
  <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
-Apasionado de la tecnología, desarrollo de negocios, y nuevas tendencias. Disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Passionate about technology, business development, and new trends. Enjoying a career transition to Data Analytics. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Actualmente estoy trabajando en el departamento de ventas de una empresa SaaS de tecnología deportiva. En búsqueda de nuevos retos :muscle:
+* :telescope: I'm currently working in the sales department of a sports technology SaaS company. Looking for new challenges :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: Studying :blue_book: and practicing :computer: SQL and Phyton language, without leaving aside the incredible Microsoft tools.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: I love discovering new ways to automate my work and be more effective.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-César-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ceorozco92/)
+* :mailbox: Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/-César-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ceorozco92/)
 
 * ---
 
