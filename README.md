@@ -16,7 +16,7 @@
 ---
  <div id="header" align="left">
 
-### :man_technologist: Sobre mí :
+### :man_technologist: About me :
 Passionate about technology, business development, and new trends. Enjoying a career transition to Data Analytics. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :telescope: I'm currently working in the sales department of a sports technology SaaS company. Looking for new challenges :muscle:
@@ -29,7 +29,7 @@ Passionate about technology, business development, and new trends. Enjoying a ca
 
 * ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Languages and tools :
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
@@ -47,7 +47,7 @@ Passionate about technology, business development, and new trends. Enjoying a ca
 
   ---
 
-### :fire: Mis estadísticas:
+### :fire: My statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ceoroz9&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceoroz9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
